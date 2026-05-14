@@ -1,5 +1,4 @@
-## SCT_DS_Task4  
-### Project Title: Traffic Accident Data Analysis (Road, Weather & Time-Based Patterns)
+## Project Title: Traffic Accident Data Analysis (Road, Weather & Time-Based Patterns)
 
 ### Description:
 This project focuses on analyzing traffic accident data to identify patterns related to **road surface conditions, weather conditions, and time of day**. The analysis was performed using the **US Accidents (March 2023) dataset** in a Kaggle Notebook, and the final notebook was exported for submission.
