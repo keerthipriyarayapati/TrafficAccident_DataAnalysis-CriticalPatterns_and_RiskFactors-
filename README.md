@@ -61,7 +61,7 @@ The following preprocessing steps were performed:
 - Google Colab  
 
 ### Files in Repository 
-1. `SCT_DS_Task3.ipynb` — Complete preprocessing, model training, evaluation, and visualization  
+1. `SCT_DS_Task4.ipynb` — Complete preprocessing, model training, evaluation, and visualization  
 2. `requirements.txt` — Required Python libraries  
 3. `README.md` — Project documentation
 
